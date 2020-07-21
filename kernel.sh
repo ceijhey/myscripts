@@ -52,7 +52,7 @@ DEFCONFIG=jason_defconfig
 
 # Specify compiler. 
 # 'clang' or 'gcc'
-COMPILER=clang
+COMPILER=gcc
 
 # Clean source prior building. 1 is NO(default) | 0 is YES
 INCREMENTAL=1
